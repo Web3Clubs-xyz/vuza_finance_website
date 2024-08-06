@@ -971,11 +971,6 @@ button.swiper-pagination-bullet {
 } /*!*****************************************************************************************************************!*\
 !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/css/animate.css ***!
 \*****************************************************************************************************************/
-@charset "UTF-8"; /*!* animate.css -https://daneden.github.io/animate.css/
-* Version - 3.7.2
-* Licensed under the MIT license - http://opensource.org/licenses/MIT
-*
-* Copyright (c) 2019 Daniel Eden*/
 @keyframes fadeIn {
   from {
     opacity: 0;
