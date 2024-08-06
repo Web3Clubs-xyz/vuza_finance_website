@@ -3188,3 +3188,17 @@ body {
     max-width: 265px;
   }
 }
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-image {
+  height: 50px; /* Adjust height as needed */
+}
+
+.logo-text {
+  margin-left: 8px; /* Adjust spacing as needed */
+  font-size: 26px;  /* Adjust font size as needed */
+}
